@@ -1,0 +1,208 @@
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\obj\Debug\StockExchange.Web.csprojResolveAssemblyReference.cache
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\ApplicationInsights.config
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\roslyn\csc.exe
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\roslyn\vbc.exe
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StockExchange.Web.dll.config
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StockExchange.Web.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StockExchange.Web.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Antlr3.Runtime.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\AutoMapper.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\EntityFramework.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AI.Web.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Newtonsoft.Json.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Owin.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StockExchange.Auth.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StockExchange.Data.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StockExchange.Domain.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StockExchange.Repo.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StructureMap.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StructureMap.Web.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.Helpers.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.Mvc.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.Optimization.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.Razor.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.WebPages.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\WebActivatorEx.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\WebGrease.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Moq.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Castle.Core.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StockExchange.Auth.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StockExchange.Data.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StockExchange.Domain.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StockExchange.Repo.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\AutoMapper.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AI.Web.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StructureMap.Web.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\StructureMap.Web.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.Helpers.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.Mvc.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.Optimization.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.Razor.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.WebPages.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Antlr3.Runtime.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Newtonsoft.Json.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\EntityFramework.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Moq.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\bin\Castle.Core.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\obj\Debug\StockExchange.Web.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Web\obj\Debug\StockExchange.Web.pdb
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\ApplicationInsights.config
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\roslyn\csc.exe
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\roslyn\vbc.exe
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StockExchange.Web.dll.config
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StockExchange.Web.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StockExchange.Web.pdb
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Antlr3.Runtime.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\AutoMapper.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\EntityFramework.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AI.Web.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Newtonsoft.Json.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Owin.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StockExchange.Auth.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StockExchange.Data.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StockExchange.Domain.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StockExchange.Repo.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StructureMap.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StructureMap.Web.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.Helpers.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.Mvc.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.Optimization.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.Razor.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.WebPages.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\WebActivatorEx.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\WebGrease.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Moq.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Castle.Core.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StockExchange.Auth.pdb
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StockExchange.Data.pdb
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StockExchange.Domain.pdb
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StockExchange.Repo.pdb
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\AutoMapper.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AI.Web.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Newtonsoft.Json.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StructureMap.Web.pdb
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\StructureMap.Web.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.Helpers.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.Mvc.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.Optimization.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.Razor.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.WebPages.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Antlr3.Runtime.pdb
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\EntityFramework.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Moq.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\bin\Castle.Core.xml
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\obj\Debug\StockExchange.Web.csprojResolveAssemblyReference.cache
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\obj\Debug\StockExchange.Web.dll
+C:\Users\odeyi\Desktop\documentation\Odeyinka_Olubunmi-CSharpAssignment\Source\StockMonitor\StockExchange.Web\obj\Debug\StockExchange.Web.pdb

@@ -1,0 +1,7 @@
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Auth\bin\Debug\StockExchange.Auth.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Auth\bin\Debug\StockExchange.Auth.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Auth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Auth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Auth\obj\Debug\StockExchange.Auth.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Auth\obj\Debug\StockExchange.Auth.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Auth\obj\Debug\StockExchange.Auth.csprojResolveAssemblyReference.cache

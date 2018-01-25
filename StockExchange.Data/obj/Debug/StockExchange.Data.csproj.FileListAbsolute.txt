@@ -1,0 +1,16 @@
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\bin\Debug\StockExchange.Data.dll.config
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\bin\Debug\StockExchange.Data.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\bin\Debug\StockExchange.Data.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\bin\Debug\Castle.Core.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\bin\Debug\EntityFramework.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\bin\Debug\StockExchange.Domain.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\bin\Debug\StockExchange.Domain.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\bin\Debug\Castle.Core.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\bin\Debug\EntityFramework.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\obj\Debug\StockExchange.Data.csprojResolveAssemblyReference.cache
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\obj\Debug\StockExchange.Data.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\obj\Debug\StockExchange.Data.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\obj\Debug\StockExchange.Data.Migrations.initial.resources
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Data\obj\Debug\StockExchange.Data.csproj.GenerateResource.Cache

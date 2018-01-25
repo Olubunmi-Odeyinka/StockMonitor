@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockExchange.Domain", "StockExchange.Domain\StockExchange.Domain.csproj", "{E22E46E5-DD47-4876-B81E-2A1EEBA27209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockExchange.Data", "StockExchange.Data\StockExchange.Data.csproj", "{68D4FEDE-4C03-412A-A7FA-8D3BA1CF3D89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockExchange.Repo", "StockExchange.Repo\StockExchange.Repo.csproj", "{53C41E62-7971-4473-85AA-B971A055E63E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockExchange.Auth", "StockExchange.Auth\StockExchange.Auth.csproj", "{A410B9BA-C26D-40A5-BD63-ADE18FDCBC80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockExchange.Service", "StockExchange.Service\StockExchange.Service.csproj", "{AC31C6F0-6CF1-4423-A682-9C1CC068E249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockExchange.Web", "StockExchange.Web\StockExchange.Web.csproj", "{60F1A60C-7893-41D7-B6BF-5AA326267DF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{0222EAD3-E2E7-4908-BE89-9EC039C822FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockExchange.Repo.Test", "StockExchange.Repo.Test\StockExchange.Repo.Test.csproj", "{3114F4AD-26DC-4986-8158-BB370BDB93FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E22E46E5-DD47-4876-B81E-2A1EEBA27209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22E46E5-DD47-4876-B81E-2A1EEBA27209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22E46E5-DD47-4876-B81E-2A1EEBA27209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22E46E5-DD47-4876-B81E-2A1EEBA27209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D4FEDE-4C03-412A-A7FA-8D3BA1CF3D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D4FEDE-4C03-412A-A7FA-8D3BA1CF3D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D4FEDE-4C03-412A-A7FA-8D3BA1CF3D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D4FEDE-4C03-412A-A7FA-8D3BA1CF3D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C41E62-7971-4473-85AA-B971A055E63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C41E62-7971-4473-85AA-B971A055E63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C41E62-7971-4473-85AA-B971A055E63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C41E62-7971-4473-85AA-B971A055E63E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A410B9BA-C26D-40A5-BD63-ADE18FDCBC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A410B9BA-C26D-40A5-BD63-ADE18FDCBC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A410B9BA-C26D-40A5-BD63-ADE18FDCBC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A410B9BA-C26D-40A5-BD63-ADE18FDCBC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC31C6F0-6CF1-4423-A682-9C1CC068E249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC31C6F0-6CF1-4423-A682-9C1CC068E249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC31C6F0-6CF1-4423-A682-9C1CC068E249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC31C6F0-6CF1-4423-A682-9C1CC068E249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F1A60C-7893-41D7-B6BF-5AA326267DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F1A60C-7893-41D7-B6BF-5AA326267DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F1A60C-7893-41D7-B6BF-5AA326267DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F1A60C-7893-41D7-B6BF-5AA326267DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3114F4AD-26DC-4986-8158-BB370BDB93FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3114F4AD-26DC-4986-8158-BB370BDB93FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3114F4AD-26DC-4986-8158-BB370BDB93FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3114F4AD-26DC-4986-8158-BB370BDB93FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3114F4AD-26DC-4986-8158-BB370BDB93FF} = {0222EAD3-E2E7-4908-BE89-9EC039C822FD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,53 @@
+﻿@model List<StockExchange.Domain.ViewModels.UserStockViewModel>
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>My Monitored Stock List</h2>
+
+
+
+@using (Html.BeginForm("Edit", "UserStocks", FormMethod.Post))
+{
+    <p>
+        <input type="submit" class="btn btn-danger" value="Remove Selection" />
+        @Html.ActionLink("Add More To List", "Create", null, new { @class = "btn btn-primary pull-right" })
+    </p>
+<table class="table">
+    <tr>
+        <th>
+            Company Name
+        </th>
+        <th>
+            Ticket Symbol
+        </th>
+        <th>
+            Remove
+        </th>
+    </tr>
+
+
+    @for (int i = 0; i < Model.Count(); i++)
+    {
+        @Html.HiddenFor(modelItem => Model[i].Id)
+        @Html.HiddenFor(modelItem => Model[i].CompanyId)
+        @Html.HiddenFor(modelItem => Model[i].UserName)
+        @Html.HiddenFor(modelItem => Model[i].CompanyName)
+        @Html.HiddenFor(modelItem => Model[i].TicketSymbol)
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => Model[i].CompanyName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model[i].TicketSymbol)
+            </td>
+            <td>
+                @Html.CheckBoxFor(modelItem => Model[i].IsAdded, new { @title = "Please Check this to include the Company Code in my Monitored List" })
+            </td>
+        </tr>
+    }
+</table>
+}
+

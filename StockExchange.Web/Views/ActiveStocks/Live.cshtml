@@ -1,0 +1,42 @@
+﻿@model string
+
+@{
+    ViewBag.Title = "Live";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Live Stock Feed</h2>
+<div ng-controller="MainCtrl" ng-init='setToken("@Model")'>
+    <div class="row"><h2 class="col-lg-2">Ticket Symbol</h2><div class="col-lg-2"><h2>Volume@@</h2></div><div class="col-lg-2"><h2>PriceTraded</h2></div><div class="col-lg-2"><h2>Direction</h2></div><div class="col-lg-1"><h2>RateChange</h2></div></div>
+    <div ng-if="Error">{{ressponse}}</div>
+    <div ng-if="!Error" ng-repeat="item in response">
+        <div class="row" >
+           
+
+                <h2 class="col-lg-2">{{item.TicketSymbol}}</h2>
+                <div class="col-lg-2">
+                    <h2>{{item.Volume}}@@</h2>
+                </div>
+                <div class="col-lg-2">
+                    <h2>${{item.PriceTraded}}.00</h2>
+                </div>
+                <div class="col-lg-2">
+                    <span style="font-size: 50px; color: red;" ng-if="item.RateChange < 0" class="glyphicon glyphicon-hand-down" aria-hidden="true"></span>
+                    <span style="font-size: 50px; color: green;" ng-if="item.RateChange > 0" class="glyphicon glyphicon-hand-up" aria-hidden="true"></span>
+   
+                
+                </div>
+                <div class="col-lg-1">
+                    <h2>${{item.RateChange}}.00</h2>
+                </div>
+            </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/soapclient.js"></script>
+    <script src="~/Scripts/angular.soap.js"></script>
+    <script src="~/Scripts/js/app.js"></script>
+    <script src="~/Scripts/js/liveStock.js"></script>
+}

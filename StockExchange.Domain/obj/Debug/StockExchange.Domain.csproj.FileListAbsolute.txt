@@ -1,0 +1,5 @@
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Domain\bin\Debug\StockExchange.Domain.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Domain\bin\Debug\StockExchange.Domain.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Domain\obj\Debug\StockExchange.Domain.dll
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Domain\obj\Debug\StockExchange.Domain.pdb
+C:\Users\odeyi\OneDrive\Documents\Visual Studio 2012\Projects\StockMonitor\StockExchange.Domain\obj\Debug\StockExchange.Domain.csprojResolveAssemblyReference.cache
